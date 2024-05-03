@@ -1,0 +1,10 @@
+altgraph 
+future 
+macholib 
+pyglossary==4.5.0
+six 
+fastapi
+psycopg2
+sqlalchemy
+jinja2
+uvicorn[standard]
